@@ -1,1 +1,2 @@
-message('Hello world!')
+text = "Hello world!"
+message(text)
