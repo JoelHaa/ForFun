@@ -1,0 +1,6 @@
+## Interface: 11505
+## Title: ForFun
+## Author: Joel Haapaniemi
+## Version: 1.0
+
+ForFun.lua
