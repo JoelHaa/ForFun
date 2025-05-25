@@ -1,4 +1,4 @@
-## Interface: 11505
+## Interface: 11576
 ## Title: ForFun
 ## Author: Joel Haapaniemi
 ## Version: 1.0
