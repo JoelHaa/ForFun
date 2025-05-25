@@ -9,7 +9,7 @@ function getPlayerInformation()
    playerRealm = GetRealmName()
    
    
-   return "Greetings, " .. playerName .. " (Level " .. playerLevel .. ") " .. 
+   return "Greetings,\n " .. playerName .. " (Level " .. playerLevel .. ") " .. 
    playerRace .. " " .. playerClass .. " of the " .. playerFaction .. " on the realm " .. 
    playerRealm .. "."
 end
